@@ -28,11 +28,11 @@ data = '01.08.2001'
 # day = days[:: 1]
 # month = months[:: 7]
 
-d, m, y = data.split('.')
-d = int(d)
-m = int(m)
-y = int(y)
-print(d, m, y)
-
-result = f'{days[d]} {months[m]} {y} года'
-print(result)
+# d, m, y = data.split('.')
+# d = int(d)
+# m = int(m)
+# y = int(y)
+# print(d, m, y)
+#
+# result = f'{days[d]} {months[m]} {y} года'
+# print(result)
